@@ -1,5 +1,5 @@
 # ***Travel the Same Path(TSP)***: A Novel TSP Solving Strategy
-The paper can be found in [here](https://arxiv.org/abs/2210.05906).
+The paper can be found [here](https://arxiv.org/abs/2210.05906).
 
 ## Running the Experiment
 
